@@ -53,6 +53,6 @@ public class HealthSystem : MonoBehaviour
     }
     void UpdateAnimator()
     {
-        animator.SetInteger("Health", currentHealth);
+        //animator.SetInteger("Health", currentHealth);
     }
 }
